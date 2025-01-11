@@ -17,7 +17,7 @@ Fast Flags ("быстрые флаги") — это параметры, кото
 
 
 ### 2. Скачать JSON из этого репозитория
-Скачайте [Архив]()
+Скачайте [Архив](https://github.com/Riot000Kylie/Roblox-bloxtrap-optimization-fastflag/archive/refs/heads/main.zip)
               или 
                   клонируйте репозиторий:
 ```bash
