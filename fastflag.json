@@ -1,8 +1,3 @@
-/* RU:Этот JSON список создан в целях умеренной оптимизации
-без критических потерь в графике или ущерба стабильности работы Roblox
------------------------------------------------------------------------
-EN:This JSON list is created for the purpose of moderate optimization
-without critical loss in graphics or damage to the stability of Roblox */
 {
 
     "DFIntCSGLevelOfDetailSwitchingDistance": 250,
@@ -29,9 +24,5 @@ without critical loss in graphics or damage to the stability of Roblox */
     "FFlagDebugDisableTelemetryV2Counter": true,
     "FFlagDebugDisableTelemetryV2Event": true,
     "FFlagDebugDisableTelemetryV2Stat": true
-    }
-/*
-Riot000Kylie 
-Git:
-
-*/ 
+    
+}
