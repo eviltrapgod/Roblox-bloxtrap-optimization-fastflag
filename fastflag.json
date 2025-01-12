@@ -1,28 +1,54 @@
-{
 
-    "DFIntCSGLevelOfDetailSwitchingDistance": 250,
-    "DFIntCSGLevelOfDetailSwitchingDistanceL12": 500,
-    "DFIntCSGLevelOfDetailSwitchingDistanceL32": 750,
-    "DFIntCSGLevelOfDetailSwitchingDistanceL34": 1000,
-    
-    "DFFlagTextureQualityOverrideEnabled": true,
-    "DFIntTextureQualityOverride": 2, 
-    
-    "DFIntDebugFRMQualityLevelOverride": 2,
-    
-    "FFlagCoreGuiTypeSelfViewPresent": false,
-    "FFlagInGameMenuV1FullScreenTitleBar": false,
+  {
+    "FLogNetwork": "7",
+
+
+    "FFlagHandleAltEnterFullscreenManually": "False",
+    "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
+
+
+    "DFIntTaskSchedulerTargetFps": "144",
     "FFlagDebugDisplayFPS": "true",
-    
-    "FIntRenderShadowIntensity": 0,
-    "FFlagDisablePostFx": true,
-    
-    "FFlagDebugDisableTelemetryEphemeralCounter": true,
-    "FFlagDebugDisableTelemetryEphemeralStat": true,
-    "FFlagDebugDisableTelemetryEventIngest": true,
-    "FFlagDebugDisableTelemetryPoint": true,
-    "FFlagDebugDisableTelemetryV2Counter": true,
-    "FFlagDebugDisableTelemetryV2Event": true,
-    "FFlagDebugDisableTelemetryV2Stat": true
-    
-}
+    "FFlagEnableQuickGameLaunch": "True" ,
+
+    "DFIntCSGLevelOfDetailSwitchingDistance": "250",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL12": "500",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL32": "750",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL34": "1000",
+
+    "DFFlagTextureQualityOverrideEnabled": "True",
+    "DFIntTextureQualityOverride": "2",
+    "DFIntDebugFRMQualityLevelOverride": "2",
+    "FIntRenderShadowIntensity": "0",
+    "FFlagDisablePostFx": "True",
+    "FIntTerrainArraySliceSize": "0",
+    "FIntDebugForceMSAASamples": "2",
+    "FFlagDebugForceFutureIsBrightPhase2": "True",
+    "FIntFRMMinGrassDistance": "0",
+
+
+    "FIntFRMMaxGrassDistance": "0",
+    "FIntRenderGrassDetailStrands": "0",
+    "FIntRenderGrassHeightScaler": "0",
+
+
+    "FFlagCoreGuiTypeSelfViewPresent": "False",
+    "FFlagInGameMenuV1FullScreenTitleBar": "False",
+    "FFlagEnableInGameMenuChrome": "True",
+    "FFlagEnableInGameMenuChromeABTest": "True",
+    "FFlagEnableInGameMenuChromeSignalAPI": "True",
+    "FFlagPlayerListChromePushdown": "True",
+    "FFlagEnableChromeEscapeFix": "True",
+    "FFlagEnableChromeMicShimmer": "True",
+    "FIntRobloxGuiBlurIntensity": "0" ,
+
+    "FFlagDebugDisableTelemetryEphemeralCounter": "True",
+    "FFlagDebugDisableTelemetryEphemeralStat": "True",
+    "FFlagDebugDisableTelemetryEventIngest": "True",
+    "FFlagDebugDisableTelemetryPoint": "True",
+    "FFlagDebugDisableTelemetryV2Counter": "True",
+    "FFlagDebugDisableTelemetryV2Event": "True",
+    "FFlagDebugDisableTelemetryV2Stat": "True",
+    "FFlagAdServiceEnabled": "False" 
+
+  }
