@@ -9,9 +9,8 @@ Fast Flags ("fast flags") — This is a tool for editing Roblox Roblox parameter
 ## Repository composition
 - **Default Fast flags.json**: The main JSON file containing the Fast flag parameters and values.
 - **SUPER fastflags.json**: The second main JSON file, only personally compiled for the author, contains more optimization of the game launch, etc.
-- **LICENSE**: File containing the license.
 - **README**: Instructions for installing flags and all useful information.
-
+- **README-RU**: Instructions for installing flags and all useful information on the Russian Lang.
 ## Features
 1. The configuration does not contain potentially conflicting parameters, which makes it suitable for all Roblox modes.
 2. The configuration does not turn the graphics into "potatoes" and gently changes the graphics, while providing a good FPS increase.
@@ -45,9 +44,6 @@ Or copy the parameters from this repository and paste the parameters and values 
 ### PS The first launch always crashes!
 ## Contribution to the project
 Your ideas and improvements are welcome!
-
-## License
-This project is distributed under the GNU license. More details in the [LICENSE](LICENSE) file.
 
 ---
 
